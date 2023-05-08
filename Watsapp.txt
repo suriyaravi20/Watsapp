@@ -19,3 +19,5 @@ Author: Suriya
 8.adding status code
 
 9.adding Settings code
+
+10.adding help feature code inside Settings
