@@ -8,7 +8,7 @@ Author: Suriya
 
 3.Last seen code
 
-4.Attachment(image,document,contact) code
+4.Attachment(image,audio,document,contact) code
 
 5.pay money code
 
